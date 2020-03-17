@@ -10,3 +10,5 @@ I used Python and its popular libraries such as NumPy and Pandas, as well as the
 
 ## 2. Fundamentals of Linear Regression
 - **Linear Regression 1D Training One Parameter**: In this section, I trained a model with PyTorch by using data that I created. The model only has one parameter: the slope
+
+- **Linear regression 1D Training Two Parameter**: In this section, I trained a model with PyTorch by using the data that I created. The model will have the slope and bias. And l reviewed how to make a prediction in several different ways by using PyTorch
