@@ -9,4 +9,4 @@ I used Python and its popular libraries such as NumPy and Pandas, as well as the
 - **Dataset**: In this section, I constructed a basic dataset by using PyTorch and learnt how to apply basic transformations to it. Also, used a prebuilt dataset and then used some prebuilt dataset transforms.
 
 ## 2. Fundamentals of Linear Regression
-
+- **Linear Regression 1D: Training One Parameter**: In this section, I trained a model with PyTorch by using data that I created. The model only has one parameter: the slope
