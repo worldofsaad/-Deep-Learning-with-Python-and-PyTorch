@@ -16,3 +16,5 @@ I used Python and its popular libraries such as NumPy and Pandas, as well as the
 - **Stochastic Gradient Descent**: In this section, I practiced training a model by using Stochastic Gradient descent and compared it with Batch Gradient Descent we used in earlier section.
 
 - **Mini-Batch Gradient Descent**: In this section, l practiced training a model by using Mini-Batch Gradient Descent.
+
+- **PyTorch Way**: I created a model the PyTorch way in this section, this helps as models get more complicated.
