@@ -9,12 +9,14 @@ I used Python and its popular libraries such as NumPy and Pandas, as well as the
 - **Dataset**: In this section, I constructed a basic dataset by using PyTorch and learnt how to apply basic transformations to it. Also, used a prebuilt dataset and then used some prebuilt dataset transforms.
 
 ## 2. Fundamentals of Linear Regression
-- **Linear Regression 1D Training One Parameter**: In this section, I trained a model with PyTorch by using data that I created. The model only has one parameter: the slope
+- **1D Training One Parameter**: In this section, I trained a model with PyTorch by using data that I created. The model only has one parameter: the slope
 
-- **Linear regression 1D Training Two Parameter**: In this section, I trained a model with PyTorch by using the data that I created. The model will have the slope and bias. And l reviewed how to make a prediction in several different ways by using PyTorch
+- **1D Training Two Parameter**: In this section, I trained a model with PyTorch by using the data that I created. The model will have the slope and bias. And l reviewed how to make a prediction in several different ways by using PyTorch
 
 - **Stochastic Gradient Descent**: In this section, I practiced training a model by using Stochastic Gradient descent and compared it with Batch Gradient Descent we used in earlier section.
 
 - **Mini-Batch Gradient Descent**: In this section, l practiced training a model by using Mini-Batch Gradient Descent.
 
 - **PyTorch Way**: I created a model the PyTorch way in this section, this helps as models get more complicated.
+
+-**Training and Validation Data**: In this section, I learnt to select the best learning rate by using validation data.
