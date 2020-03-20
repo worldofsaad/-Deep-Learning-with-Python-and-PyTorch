@@ -19,4 +19,4 @@ I used Python and its popular libraries such as NumPy and Pandas, as well as the
 
 - **PyTorch Way**: I created a model the PyTorch way in this section, this helps as models get more complicated.
 
--**Training and Validation Data**: In this section, I learnt to select the best learning rate by using validation data.
+- **Training and Validation Data**: In this section, I learnt to select the best learning rate by using validation data.
