@@ -20,3 +20,5 @@ I used Python and its popular libraries such as NumPy and Pandas, as well as the
 - **PyTorch Way**: I created a model the PyTorch way in this section, this helps as models get more complicated.
 
 - **Training and Validation Data**: In this section, I learnt to select the best learning rate by using validation data.
+
+- **Early Stopping**: In this section, I performed early stopping and save the model that minimizes the total loss on the validation data for every iteration. (*Note*: Early Stopping is a general term. We will focus on the variant where we use the validation data. You can also use a pre-determined number iterations.)
