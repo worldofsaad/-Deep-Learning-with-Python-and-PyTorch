@@ -27,3 +27,4 @@ I used Python and its popular libraries such as NumPy and Pandas, as well as the
 
 ## 3. Logistic and Softmax Regression
 - **Logistic Regression Prediction**: In this section, we will cover logistic regression using PyTorch.
+- **Logistic Regression Training**: I see what happens when we use the root mean square error cost or total loss function using random initialization for a parameter values.
