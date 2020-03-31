@@ -26,4 +26,4 @@ I used Python and its popular libraries such as NumPy and Pandas, as well as the
 - **Multi Linear Regression**: I performed Linear Regression involving multiple parameters as well as output using nn,Modules.
 
 ## 3. Logistic and Softmax Regression
-- **Logistic Regression Prediction**: 
+- **Logistic Regression Prediction**: In this section, we will cover logistic regression using PyTorch.
