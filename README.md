@@ -24,3 +24,10 @@ I used Python and its popular libraries such as NumPy and Pandas, as well as the
 - **Early Stopping**: In this section, I performed early stopping and save the model that minimizes the total loss on the validation data for every iteration. (*Note*: Early Stopping is a general term. We will focus on the variant where we use the validation data. You can also use a pre-determined number iterations.)
 
 - **Multi Linear Regression**: I performed Linear Regression involving multiple parameters as well as output using nn,Modules.
+
+## 3. Logistic and Softmax Regression
+- **Logistic Regression Prediction**: In this section, we will cover logistic regression using PyTorch.
+
+- **Logistic Regression Training**: I see what happens when we use the root mean square error cost or total loss function using random initialization for a parameter values and also by selecting a bad initialization value for the parameter values and then try to solve issue with cross entropy.
+
+- **Softmax Regression**: In this section, I used Softmax to classify three linearly separable classes, the features are in one dimension and then I used a single layer Softmax to classify handwritten digits from the MNIST database.
