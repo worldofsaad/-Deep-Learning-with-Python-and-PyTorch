@@ -33,6 +33,6 @@ I used Python and its popular libraries such as NumPy and Pandas, as well as the
 - **Softmax Regression**: In this section, I used Softmax to classify three linearly separable classes, the features are in one dimension and then I used a single layer Softmax to classify handwritten digits from the MNIST database.
 
 ## 4. Feed Forward Neural Network
-- **Neural Network**: In this section, I used a single-layer neural network to classify non linearly seprable data in 1-D database. Alsp, I explored how many neurons it takes to classify a noisy XOR data with one hidden layer neural network. Then I used a single layer neural network to classify handwritten digits from the MNIST database.
+- **Neural Network**: In this section, I used a single-layer neural network to classify non linearly seprable data in 1-D database. Also, I explored how many neurons it takes to classify a noisy XOR data with one hidden layer neural network. Then I used a single layer neural network to classify handwritten digits from the MNIST database.
 
 - **Activation Functions**: I compared different Activation Functions i.e. Sigmoid, Relu & Tanh by using them on MNIST
