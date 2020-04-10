@@ -34,3 +34,5 @@ I used Python and its popular libraries such as NumPy and Pandas, as well as the
 
 ## 4. Feed Forward Neural Network
 - **Neural Network**: In this section, I used a single-layer neural network to classify non linearly seprable data in 1-D database. Alsp, I explored how many neurons it takes to classify a noisy XOR data with one hidden layer neural network. Then I used a single layer neural network to classify handwritten digits from the MNIST database.
+
+- **Activation Network**: I compared different Activation Functions i.e. Sigmoid, Relu & Tanh
