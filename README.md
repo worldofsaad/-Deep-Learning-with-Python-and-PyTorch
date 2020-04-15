@@ -31,3 +31,13 @@ I used Python and its popular libraries such as NumPy and Pandas, as well as the
 - **Logistic Regression Training**: I see what happens when we use the root mean square error cost or total loss function using random initialization for a parameter values and also by selecting a bad initialization value for the parameter values and then try to solve issue with cross entropy.
 
 - **Softmax Regression**: In this section, I used Softmax to classify three linearly separable classes, the features are in one dimension and then I used a single layer Softmax to classify handwritten digits from the MNIST database.
+<<<<<<< Updated upstream
+=======
+
+## 4. Feed Forward Neural Network
+- **Neural Network**: In this section, I used a single-layer neural network to classify non linearly seprable data in 1-D database. Also, I explored how many neurons it takes to classify a noisy XOR data with one hidden layer neural network. Then I used a single layer neural network to classify handwritten digits from the MNIST database.
+
+- **Activation Functions**: I compared different Activation Functions i.e. Sigmoid, Relu & Tanh by using them on MNIST.
+
+- **Deeper Neural Networks**: In this section, I created a Deeper Neural Network with nn.ModuleList()
+>>>>>>> Stashed changes
