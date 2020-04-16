@@ -38,3 +38,6 @@ I used Python and its popular libraries such as NumPy and Pandas, as well as the
 - **Activation Functions**: I compared different Activation Functions i.e. Sigmoid, Relu & Tanh by using them on MNIST.
 
 - **Deeper Neural Network**: In this section, I created a Deeper Neural Network with nn.ModuleList()
+
+## 5. Deep Networks
+- **Dropout**: I see how adding dropout to my model decreases overfitting
