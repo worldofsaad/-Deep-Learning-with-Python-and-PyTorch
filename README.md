@@ -44,4 +44,4 @@ I used Python and its popular libraries such as NumPy and Pandas, as well as the
 
 - **Intialization**: I tested PyTroch Default Initialization, Xavier Initialization and Uniform Initialization on the MNIST dataset. Also I tested the Uniform Initialization, Default Initialization and He Initialization on the MNIST dataset with Relu Activation
 
-- **Momentum**: In this section, I deal with several problems associated with optimization and see how momentum can improve your results. I also generated data that will produce a Loss Function with a High Condition Number. I created two models; one with the momentum term and one without the momentum term.
+- **Momentum**: In this section, I deal with several problems associated with optimization and see how momentum can improve your results. I also generated data that will produce a Loss Function with a High Condition Number. I created two models; one with the momentum term and one without the momentum term & then I saw how different values for the momentum parameters affect the convergence rate of a neural network.
