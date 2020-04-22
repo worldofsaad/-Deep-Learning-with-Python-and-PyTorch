@@ -43,3 +43,5 @@ I used Python and its popular libraries such as NumPy and Pandas, as well as the
 - **Dropout**: I see how adding dropout to my model decreases overfitting
 
 - **Intialization**: I tested PyTroch Default Initialization, Xavier Initialization and Uniform Initialization on the MNIST dataset. Also I tested the Uniform Initialization, Default Initialization and He Initialization on the MNIST dataset with Relu Activation
+
+- **Momentum**: In this section, I deal with several problems associated with optimization and see how momentum can improve your results.
