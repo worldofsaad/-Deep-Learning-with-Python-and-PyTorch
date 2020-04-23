@@ -38,3 +38,12 @@ I used Python and its popular libraries such as NumPy and Pandas, as well as the
 - **Activation Functions**: I compared different Activation Functions i.e. Sigmoid, Relu & Tanh by using them on MNIST.
 
 - **Deeper Neural Network**: In this section, I created a Deeper Neural Network with nn.ModuleList()
+
+## 5. Deep Networks
+- **Dropout**: I see how adding dropout to my model decreases overfitting
+
+- **Intialization**: I tested PyTroch Default Initialization, Xavier Initialization and Uniform Initialization on the MNIST dataset. Also I tested the Uniform Initialization, Default Initialization and He Initialization on the MNIST dataset with Relu Activation
+
+- **Momentum**: In this section, I deal with several problems associated with optimization and see how momentum can improve your results. I also generated data that will produce a Loss Function with a High Condition Number. I created two models; one with the momentum term and one without the momentum term & then I saw how different values for the momentum parameters affect the convergence rate of a neural network.
+
+- **Batch Normalization**: I built a Neural Network using Batch Normalization and compare it to a Neural Network that does not use Batch Normalization. I used the MNIST dataset to test my network
