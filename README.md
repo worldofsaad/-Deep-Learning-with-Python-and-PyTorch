@@ -47,3 +47,6 @@ I used Python and its popular libraries such as NumPy and Pandas, as well as the
 - **Momentum**: In this section, I deal with several problems associated with optimization and see how momentum can improve your results. I also generated data that will produce a Loss Function with a High Condition Number. I created two models; one with the momentum term and one without the momentum term & then I saw how different values for the momentum parameters affect the convergence rate of a neural network.
 
 - **Batch Normalization**: I built a Neural Network using Batch Normalization and compare it to a Neural Network that does not use Batch Normalization. I used the MNIST dataset to test my network
+
+## 6. Introduction to Networks for Computer vision 
+
