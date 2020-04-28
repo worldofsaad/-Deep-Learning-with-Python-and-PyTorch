@@ -49,4 +49,4 @@ I used Python and its popular libraries such as NumPy and Pandas, as well as the
 - **Batch Normalization**: I built a Neural Network using Batch Normalization and compare it to a Neural Network that does not use Batch Normalization. I used the MNIST dataset to test my network
 
 ## 6. Introduction to Networks for Computer vision 
-
+- **Convolution Intro**: I studied convolution and reviewed how the different operations change the relationship between input and output.
